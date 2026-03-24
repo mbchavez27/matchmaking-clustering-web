@@ -1,2 +1,11 @@
-# matchmaking-clustering-web
-A web-based matchmaking platform built on top of the FastAPI clustering API, featuring an interactive user interface that allows users to input data, process it using Transformers NLP, and visualize matchmaking results generated through KMeans clustering in real time.
+
+  # Matchmaking Clustering App
+
+  This is a code bundle for Matchmaking Clustering App. The original project is available at https://www.figma.com/design/bIFNu0ccucFPrWPB412i54/Matchmaking-Clustering-App.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
